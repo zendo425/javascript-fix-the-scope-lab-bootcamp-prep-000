@@ -1,7 +1,7 @@
 
 
 function myAnimal() {
-   myAnimal === animal;
+  
   return myAnimal();
 }
 
