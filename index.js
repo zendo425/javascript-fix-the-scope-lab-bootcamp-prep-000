@@ -3,6 +3,10 @@ function myAnimal(){
   return animal;
 }
 
+function yourAnimal(){
+ var animal = "dog";
+  return animal;
+}
 
 
 
